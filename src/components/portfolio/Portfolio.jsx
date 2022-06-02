@@ -11,43 +11,43 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'ABC',
-    github: 'https://github.com',
+    title: 'Analysis on Trending Youtube Videos',
+    github: 'https://github.com/austin17kingslee/Analyzing-Top-Trending-Youtube-Videos.git',
     demo: 'https://dribble.com'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'ABC',
-    github: 'https://github.com',
+    title: 'Transform Facial Expressions Into Emojis',
+    github: 'https://github.com/austin17kingslee/Transform-Facial-Expressions-Into-Emojis.git',
     demo: 'https://dribble.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'ABC',
-    github: 'https://github.com',
+    title: 'Knapsack Problem - Genetic Algorithm',
+    github: 'https://github.com/austin17kingslee/Knapsack-Problem-Using-Genetic-Algorithm.git',
     demo: 'https://dribble.com'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'ABC',
-    github: 'https://github.com',
+    title: 'Sorting Algorithms Display App',
+    github: 'https://github.com/austin17kingslee/Sorting-Algorithms-Display-App.git',
     demo: 'https://dribble.com'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'ABC',
-    github: 'https://github.com',
+    title: 'Coffee Shop Website',
+    github: 'https://github.com/VinhTongThanh/SE.20212.Group502.git',
     demo: 'https://dribble.com'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'ABC',
-    github: 'https://github.com',
+    title: 'E-commerce Website',
+    github: 'https://github.com/theobmgit/e-commerce-webinfosys.git',
     demo: 'https://dribble.com'
   },
 ]

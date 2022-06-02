@@ -40,7 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur nesciunt doloribus vitae non. Laudantium, non? Magnam esse ut omnis soluta sint tenetur, distinctio quae enim earum odio dolorem, quibusdam sequi.
+            I am a third year IT student at Hanoi University of Science & Technology. 
+            I'm now working as an Web engineer intern for GHKT.
+            I play Genshin Impact and listen to Taylor Swift in my free time. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Talk To Me</a>
